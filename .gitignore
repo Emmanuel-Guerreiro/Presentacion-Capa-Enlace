@@ -1,0 +1,4 @@
+./receiver/node_modules
+./sender/node_modules
+./receiver/dist
+./sender/dist
